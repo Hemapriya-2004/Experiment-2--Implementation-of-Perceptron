@@ -135,5 +135,5 @@ Output:
 ![j4](https://github.com/Hemapriya-2004/Experiment-2--Implementation-of-Perceptron/assets/94184828/9df0421d-d30b-4e62-8e92-71df7c17b257)
 
 
-Result:
+## Result:
 Thus a perceptron for classification is implemented using python
